@@ -1,3 +1,12 @@
+
+
+# 🚴 Dashboard Penyewaan Sepeda
+
+Dashboard ini dibuat menggunakan **Streamlit** untuk menganalisis data penyewaan sepeda berdasarkan berbagai faktor seperti musim, waktu dalam sehari, kondisi cuaca, dan hari kerja vs akhir pekan.
+
+---
+## 🛠 **Struktur Folder**
+```
 submission
 ├───dashboard
 | ├───main_data.csv
@@ -10,11 +19,7 @@ submission
 └───requirements.txt
 └───url.txt
 
-# 🚴 Dashboard Penyewaan Sepeda
-
-Dashboard ini dibuat menggunakan **Streamlit** untuk menganalisis data penyewaan sepeda berdasarkan berbagai faktor seperti musim, waktu dalam sehari, kondisi cuaca, dan hari kerja vs akhir pekan.
-
----
+```
 
 ## 🛠 **Langkah-langkah Menjalankan Dashboard**
 

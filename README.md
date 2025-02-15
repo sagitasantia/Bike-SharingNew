@@ -72,9 +72,11 @@ Buka link tersebut di browser untuk mengakses dashboard.
 ✅ **Kondisi Cuaca** – Pengaruh cuaca terhadap penyewaan sepeda
 
 
-![image](https://github.com/user-attachments/assets/00da83a7-a8b8-479b-a259-6c5a519a002e)
-![image](https://github.com/user-attachments/assets/545aaedb-f73b-4797-8cc6-955382de7c1d)
-![image](https://github.com/user-attachments/assets/2cab6086-21dd-4467-bea4-44caa47e50a6)
-![image](https://github.com/user-attachments/assets/f567f1dc-a71a-4811-8b49-29199da50688)
+![image](https://github.com/user-attachments/assets/e9c01ec0-6b52-4558-aed1-b3cb50aafb17)
+![image](https://github.com/user-attachments/assets/692191fb-5925-44e4-b2a7-bd99b98f7018)
+![image](https://github.com/user-attachments/assets/924a0e9a-ea80-485a-a0ec-95e44cd46d33)
+![image](https://github.com/user-attachments/assets/5fa9ecd1-d4c2-4c25-a679-c81c9fc1177a)
+![image](https://github.com/user-attachments/assets/60f7983a-80a7-45ab-a95c-d36cd2746273)
+
 
 

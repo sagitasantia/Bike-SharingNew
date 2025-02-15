@@ -52,7 +52,7 @@ st.subheader("📈 Analisis Penyewaan Sepeda")
 # Pengaruh Musim terhadap Penyewaan
 fig, ax = plt.subplots(figsize=(6, 4))
 season_labels = ['Musim Semi', 'Musim Panas', 'Musim Gugur', 'Musim Dingin']
-sns.barplot(data=filtered_day_df, x='season', y='cnt', estimator=np.mean, palette='coolwarm', ax=ax)
+sns.barplot(data=filtered_day_df, x='season', y='cnt', estimator=np.mean, palette='blue', ax=ax)
 ax.set_xticklabels(season_labels)
 ax.set_title("Rata-rata Penyewaan Sepeda Berdasarkan Musim")
 st.pyplot(fig)
@@ -74,7 +74,7 @@ st.pyplot(fig)
 
 # Perbandingan Hari Kerja dan Akhir Pekan
 fig, ax = plt.subplots(figsize=(6, 4))
-sns.barplot(data=filtered_day_df, x='workingday', y='cnt', estimator=np.mean, palette=['red', 'green'], ax=ax)
+sns.barplot(data=filtered_day_df, x='workingday', y='cnt', estimator=np.mean, palette='coolwarm', ax=ax)
 ax.set_xticklabels(["Akhir Pekan", "Hari Kerja"])
 ax.set_title("Perbandingan Penyewaan Sepeda pada Hari Kerja vs. Akhir Pekan")
 st.pyplot(fig)
